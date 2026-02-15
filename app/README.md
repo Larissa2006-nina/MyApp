@@ -5,13 +5,13 @@ This is an Android application with Login, Signup, and Landing screens.
 ## UI Screenshots
 
 ### Login Screen
-![Login Screen](login_screen.png)
+![Login Screen](images/login_screen.png)
 
 ### Signup Screen
-![Signup Screen](signup_screen.png)
+![Signup Screen](images/signup_screen.png)
 
 ### Landing Screen
-![Landing Screen](landing_screen.png)
+![Landing Screen](images/landing_screen.png)
 
 ## Features
 - User Login with validation
